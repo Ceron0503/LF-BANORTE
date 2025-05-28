@@ -62,7 +62,8 @@
       "enable" : true
     },
     {
-      "value" : "#1a447c",
+      "item" : "home_nav_icon_selected_color",
+      "value" : "#684D3D",
       "enable" : true
     },
     {
